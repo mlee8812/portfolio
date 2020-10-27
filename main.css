@@ -269,6 +269,10 @@ li{
      padding: 2rem;
  }
 
+ .skill:nth-of-type(3) img {
+    width: 80%;
+ }
+
  .skill h1{
      text-transform: uppercase;
      letter-spacing: 2px;
